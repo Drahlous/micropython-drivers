@@ -3,5 +3,7 @@
 ## Set Up
 
 ```bash
-source ./developer.sh
+./developer.sh
+
+source .venv/bin/activate
 ```
